@@ -6,7 +6,7 @@
 
 :mortar_board: I currently study **Computer Science** at the _Athens University of Economics and Business_ (Greece).
 
-:art: I love creating websites that are focused on the design and user experience, yet have clean structure and follow the universal web standards. I pay special attention to detail in every one of my projects and I always make it stand out.
+:art: I love creating websites that are focused on the design and user experience, yet have clean structure and follow the universal web standards. I pay special attention to detail in every one of my projects and I always make them stand out.
 
 :books: Some of the technologies that I am currently mastering and will soon be added to my stack are: **React**, **NodeJS** and **MongoDB**.
 
