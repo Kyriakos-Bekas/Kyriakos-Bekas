@@ -6,9 +6,9 @@
 
 :mortar_board: I am currently studying **Computer Science** at the _Athens University of Economics and Business_ (Greece).
 
-:art: I love creating websites that are focused on the design and user experience, yet have clean structure and follow the universal web standards. I pay special attention to detail in every one of my projects and I always make them stand out.
+:art: I love creating web applications with seemless user experience, yet have clean structure and follow the universal web standards. I pay special attention to detail in every one of my projects and I always make them stand out.
 
-:books: Some of the technologies that I am currently mastering and will soon be added to my stack are: **NextJS**, **Typescript**, **NodeJS** and **MongoDB**.
+:books: Some of the technologies that I am currently mastering and will soon be added to my stack are: **NextJS** and **Typescript**.
 
 :fire: When I am not on my computer, I hang out with my friends, perform as a clarinetist in two bands and play D&D.
 
@@ -23,7 +23,7 @@
 
 ### Also familiar with
 
-NodeJS & Express, MongoDB, Java
+NodeJS & Express, MongoDB, GraphQL, Java
 
 ## Connect with me
 
